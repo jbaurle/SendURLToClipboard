@@ -1,0 +1,14 @@
+{
+   "browseraction": {
+      "description": "Label for the BrowserAction",
+      "message": "Send URL to Clipboard"
+   },
+   "extdesc": {
+      "description": "Ext Description",
+      "message": "Send URL to Clipboard from Toolbar"
+   },
+   "extname": {
+      "description": "Ext Name",
+      "message": "Send URL to Clipboard"
+   }
+}
