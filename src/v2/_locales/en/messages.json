@@ -1,0 +1,14 @@
+{
+   "extaction": {
+      "description": "Label for the action",
+      "message": "Send URL to Clipboard"
+   },
+   "extdesc": {
+      "description": "Extension description",
+      "message": "Send URL to Clipboard from Toolbar"
+   },
+   "extname": {
+      "description": "Extension name",
+      "message": "Send URL to Clipboard"
+   }
+}

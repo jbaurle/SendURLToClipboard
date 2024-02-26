@@ -1,0 +1,14 @@
+{
+   "extaction": {
+      "description": "Label for the action",
+      "message": "URL in Zwischenablage speichern"
+   },
+   "extdesc": {
+      "description": "Extension description",
+      "message": "URL in Zwischenablage speichern"
+   },
+   "extname": {
+      "description": "Extension name",
+      "message": "URL in Zwischenablage speichern"
+   }
+}

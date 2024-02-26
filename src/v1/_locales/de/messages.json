@@ -1,0 +1,14 @@
+{
+   "browseraction": {
+      "description": "Label for the BrowserAction",
+      "message": "URL in Zwischenablage speichern"
+   },
+   "extdesc": {
+      "description": "Ext Description",
+      "message": "URL in Zwischenablage speichern"
+   },
+   "extname": {
+      "description": "Ext Name",
+      "message": "URL in Zwischenablage speichern"
+   }
+}
